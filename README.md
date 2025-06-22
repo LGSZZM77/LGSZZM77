@@ -23,23 +23,38 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   
   <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
 <h2>Blog & SNS</h2>
 https://velog.io/@tgsy9923/posts
 
 <h2>Learning Now</h2>
+<h3>Front-end</h3>
 <ul>
   <li>TypeScript</li>
   <li>React Suspense</li>
   <li>React-Query</li>
   <li>Zustand</li>
+  <li>FSD</li>
+</ul>
+
+<h3>Back-end</h3>
+<ul>
   <li>Supabase</li>
   <li>PostgreSQL</li>
   <li>GraphQL</li>
+</ul>
+
+<h3>Development Process</h3>
+<ul>
+  <li>SDLC</li>
   <li>TDD</li>
+  <li>Pull Request</li>
+</ul>
+
+<h3>DevOps</h3>
+<ul>
   <li>Docker</li>
   <li>CI/CD</li>
 </ul>
+
