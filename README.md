@@ -17,10 +17,8 @@
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?&style=for-the-badge&logo=gsap&logoColor=white"/>
   
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   
   <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
   
   <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
