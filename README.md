@@ -13,7 +13,6 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   
   <img alt="React" src="https://img.shields.io/badge/react-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Three.js" src="https://img.shields.io/badge/three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?&style=for-the-badge&logo=gsap&logoColor=white"/>
   
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
