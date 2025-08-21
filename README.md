@@ -31,7 +31,7 @@ https://velog.io/@tgsy9923/posts
   <li>TypeScript</li>
   <li>React Suspense</li>
   <li>React-Query</li>
-  <li>Next.js</li>li
+  <li>Next.js</li>
   <li>Zustand</li>
 </ul>
 
@@ -41,27 +41,11 @@ https://velog.io/@tgsy9923/posts
   <li>PostgreSQL</li>
 </ul>
 
-<h3>API Design</h3>
-<ul>
-  <li>REST API</li>
-  <li>GraphQL</li>
-</ul>
-
-<h3>Architecture</h3>
-<ul>
-  <li>FSD</li>
-</ul>
-
-<h3>Development Process</h3>
-<ul>
-  <li>SDLC</li>
-  <li>TDD</li>
-  <li>Pull Request</li>
-</ul>
-
-<h3>DevOps</h3>
+<h3>Others</h3>
 <ul>
   <li>Docker</li>
-  <li>CI/CD</li>
+  <li>REST API</li>
+  <li>GraphQL</li>
+  <li>FSD</li>
+  <li>TDD</li>
 </ul>
-
