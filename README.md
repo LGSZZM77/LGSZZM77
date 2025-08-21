@@ -22,7 +22,7 @@
   <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<h2>Blog & SNS</h2>
+<h2>Blog</h2>
 https://velog.io/@tgsy9923/posts
 
 <h2>Learning Now</h2>
