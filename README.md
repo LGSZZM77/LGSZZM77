@@ -31,15 +31,25 @@ https://velog.io/@tgsy9923/posts
   <li>TypeScript</li>
   <li>React Suspense</li>
   <li>React-Query</li>
+  <li>Next.js</li>li
   <li>Zustand</li>
-  <li>FSD</li>
 </ul>
 
 <h3>Back-end</h3>
 <ul>
   <li>Supabase</li>
   <li>PostgreSQL</li>
+</ul>
+
+<h3>API Design</h3>
+<ul>
+  <li>REST API</li>
   <li>GraphQL</li>
+</ul>
+
+<h3>Architecture</h3>
+<ul>
+  <li>FSD</li>
 </ul>
 
 <h3>Development Process</h3>
